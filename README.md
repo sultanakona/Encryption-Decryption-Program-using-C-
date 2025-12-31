@@ -51,8 +51,11 @@ Follow the on-screen menu to select a cipher, encrypt/decrypt text, or exit.
 
 Which type of Cipher do you want?
  [1] Affine Cipher.
+ 
  [2] Route Cipher.
+ 
  [3] Atbash Cipher.
+ 
  [4] Vigenere Cipher.
  [5] Baconian Cipher.
  [6] Simple Substitution Cipher.

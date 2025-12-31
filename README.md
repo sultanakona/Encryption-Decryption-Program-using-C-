@@ -34,19 +34,19 @@ The program provides a simple menu-driven interface, where users can select a ci
 - Works for both encryption and decryption
 
 ## How to Run
-Compile the program
+##Compile the program
 g++ main.cpp -o encrypt_decrypt
 
 
 Make sure all header files (*.h) are included in the source/ folder.
 
-Run the program
+##Run the program
 ./encrypt_decrypt
 
 
 Follow the on-screen menu to select a cipher, encrypt/decrypt text, or exit.
 
-Sample Output
+##Sample Output
 # ===== Welcome To Encryption and Decryption Program ===== #
 
 Which type of Cipher do you want?
@@ -72,7 +72,8 @@ Enter the plaintext: HELLO
 Enter key values (a and b): 5 8
 Encrypted text: RCLLA
 
-Folder Structure
+
+##Folder Structure
 Encryption-Decryption-Program/
 │
 ├─ main.cpp
@@ -89,8 +90,4 @@ Encryption-Decryption-Program/
 │   ├─ XOR_Cipher.h
 │   └─ Rail-Fence_Cipher.h
 
-### Clone the repository
-```bash
-git clone https://github.com/your-username/Encryption-Decryption-Program.git
-cd Encryption-Decryption-Program
-#Compile the program
+

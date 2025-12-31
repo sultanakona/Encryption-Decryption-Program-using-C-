@@ -50,6 +50,7 @@ Follow the on-screen menu to select a cipher, encrypt/decrypt text, or exit.
 # ===== Welcome To Encryption and Decryption Program ===== #
 
 Which type of Cipher do you want?
+
  [1] Affine Cipher.
  
  [2] Route Cipher.
@@ -57,26 +58,45 @@ Which type of Cipher do you want?
  [3] Atbash Cipher.
  
  [4] Vigenere Cipher.
+ 
  [5] Baconian Cipher.
+ 
  [6] Simple Substitution Cipher.
+ 
  [7] Polybius Square Cipher.
+ 
  [8] Morse Cipher.
+ 
  [9] XOR Cipher.
+ 
  [10] Rail-Fence Cipher.
+ 
  [11] Exit Program.
+ 
 Enter Your Choice: 1
 
+
 You selected Affine Cipher.
+
 Do you want to:
+
 [1] Encrypt
+
 [2] Decrypt
+
 Enter your choice: 1
+
 Enter the plaintext: HELLO
+
 Enter key values (a and b): 5 8
+
 Encrypted text: RCLLA
 
 
+
+
 ##Folder Structure
+
 Encryption-Decryption-Program/
 │
 ├─ main.cpp
